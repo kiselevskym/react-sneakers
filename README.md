@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-npm update 
-npm i
-npm run server
-npm start
+npm update \
+npm i \
+npm run server \
+npm start \
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
