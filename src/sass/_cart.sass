@@ -1,0 +1,61 @@
+.cart-wrapper
+  position: fixed
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  background: rgba(0, 0, 0, .5)
+  z-index: 1
+
+.cart
+  position: fixed
+  top: 0
+  right: 0
+  width: 385px
+  height: 100%
+  background: #FFFFFF
+  padding: 0 30px
+
+.cart-title
+  font-weight: bold
+  font-size: 24px
+  margin-top: 32px
+
+.cart-order-inner
+  padding: 0 30px
+
+.cart-items
+  margin-top: 24px
+  overflow: scroll
+  height: 550px
+.cart-order
+  width: 100%
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  position: absolute
+  bottom: 30px
+  left: 0
+
+.cart-order-item
+
+  display: flex
+  justify-content: space-between
+  &__title
+    font-size: 16px
+  &__price
+    font-weight: 600
+    font-size: 16px
+
+  &:nth-child(1)
+    margin-bottom: 18px
+
+  &:nth-child(2)
+    margin-bottom: 24px
+
+.cart-order-dashed
+  display: inline-block
+  content: ""
+  flex: 1
+  border-bottom: 1px dashed #DFDFDF
+  box-sizing: border-box

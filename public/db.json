@@ -1,0 +1,88 @@
+{
+  "footwear": [
+    {
+      "id": 0,
+      "imageUrl": "https://i.imgur.com/w3poGmf.png",
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 12999,
+      "isMarked": false
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://i.imgur.com/uLhjeC0.png",
+      "name": "Мужские Кроссовки Nike Air Max 270",
+      "price": 12999,
+      "isMarked": false
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.imgur.com/mmjZbG6.png",
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 8499,
+      "isMarked": false
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.imgur.com/ZtftIeJ.png",
+      "name": "Кроссовки Puma X Aka Boku Future Rider",
+      "price": 8999,
+      "isMarked": false
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.imgur.com/D7KzZT2.png",
+      "name": "Мужские Кроссовки Under Armour Curry 8",
+      "price": 15199,
+      "isMarked": false
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.imgur.com/fwrgXgi.png",
+      "name": "Мужские Кроссовки Nike Kyrie 7",
+      "price": 11299,
+      "isMarked": false
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://i.imgur.com/XmR15PI.png",
+      "name": "Мужские Кроссовки Jordan Air Jordan 11",
+      "price": 10799,
+      "isMarked": false
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://i.imgur.com/A3cOf3S.png",
+      "name": "Мужские Кроссовки Nike LeBron XVIII",
+      "price": 16499,
+      "isMarked": false
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.imgur.com/UV7gDGJ.png",
+      "name": "Мужские Кроссовки Nike Lebron XVIII Low",
+      "price": 13999,
+      "isMarked": false
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://i.imgur.com/w3poGmf.png",
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 8499,
+      "isMarked": false
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://i.imgur.com/ZtftIeJ.png",
+      "name": "Кроссовки Puma X Aka Boku Future Rider",
+      "price": 8999,
+      "isMarked": false
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://i.imgur.com/I5WzA59.png",
+      "name": "Мужские Кроссовки Nike Kyrie Flytrap IV",
+      "price": 12299,
+      "isMarked": false
+    }
+  ]
+}
